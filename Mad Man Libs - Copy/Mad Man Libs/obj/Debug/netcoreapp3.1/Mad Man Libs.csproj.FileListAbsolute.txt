@@ -1,0 +1,13 @@
+C:\Users\mjhog\source\repos\Mad Man Libs\Mad Man Libs\bin\Debug\netcoreapp3.1\Mad Man Libs.exe
+C:\Users\mjhog\source\repos\Mad Man Libs\Mad Man Libs\bin\Debug\netcoreapp3.1\Mad Man Libs.deps.json
+C:\Users\mjhog\source\repos\Mad Man Libs\Mad Man Libs\bin\Debug\netcoreapp3.1\Mad Man Libs.runtimeconfig.json
+C:\Users\mjhog\source\repos\Mad Man Libs\Mad Man Libs\bin\Debug\netcoreapp3.1\Mad Man Libs.runtimeconfig.dev.json
+C:\Users\mjhog\source\repos\Mad Man Libs\Mad Man Libs\bin\Debug\netcoreapp3.1\Mad Man Libs.dll
+C:\Users\mjhog\source\repos\Mad Man Libs\Mad Man Libs\bin\Debug\netcoreapp3.1\Mad Man Libs.pdb
+C:\Users\mjhog\source\repos\Mad Man Libs\Mad Man Libs\obj\Debug\netcoreapp3.1\Mad Man Libs.csprojAssemblyReference.cache
+C:\Users\mjhog\source\repos\Mad Man Libs\Mad Man Libs\obj\Debug\netcoreapp3.1\Mad Man Libs.AssemblyInfoInputs.cache
+C:\Users\mjhog\source\repos\Mad Man Libs\Mad Man Libs\obj\Debug\netcoreapp3.1\Mad Man Libs.AssemblyInfo.cs
+C:\Users\mjhog\source\repos\Mad Man Libs\Mad Man Libs\obj\Debug\netcoreapp3.1\Mad Man Libs.csproj.CoreCompileInputs.cache
+C:\Users\mjhog\source\repos\Mad Man Libs\Mad Man Libs\obj\Debug\netcoreapp3.1\Mad Man Libs.dll
+C:\Users\mjhog\source\repos\Mad Man Libs\Mad Man Libs\obj\Debug\netcoreapp3.1\Mad Man Libs.pdb
+C:\Users\mjhog\source\repos\Mad Man Libs\Mad Man Libs\obj\Debug\netcoreapp3.1\Mad Man Libs.genruntimeconfig.cache
